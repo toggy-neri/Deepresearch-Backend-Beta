@@ -1,4 +1,4 @@
-# 🔬 Deep Research Agent - Backend
+# Deepresearch-Backend-Beta
 
 A powerful FastAPI backend that provides intelligent deep research capabilities using multiple AI models (OpenAI, Anthropic, Kimi K2). Built with LangGraph for complex research workflows and designed for deployment on GCP Cloud Run. The backend is designed to work with the [Deep Research Frontend](https://github.com/ShenSeanChen/yt-deepresearch-frontend).
 
